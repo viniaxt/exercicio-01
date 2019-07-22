@@ -6,7 +6,9 @@ de forma que seja possível realizar commits.
 Já com o repositório importado, criar estrutura na raiz do projeto - src/...
 onde seus exercícios terão, cada um, um arquivo
 
-Obs.: Após cada etapa, realizar um commit e um push!! Além disso, criar uma branch feat/<nome> com seu respectivo nome.
+Obs.:
+- Antes de cada etapa, abrir uma branch com a respectiva estrutura: feat/01-(nome)-(número do exercicio)
+- Após cada etapa, realizar um commit e um push da sua própria branch!
 
 - O primeiro deve ser com a estrutura do projeto
 - A mensagem do commit deve conter o número do exercício e
