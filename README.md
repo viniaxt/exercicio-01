@@ -17,14 +17,14 @@ Obs.: Após cada etapa, realizar um commit e um push!! Além disso, criar uma br
 Utilizando o banco de dados (db/db.js), criar um objeto cujos atributos sejam
 o tipo de cabelo, e que tenham as pessoas com aquela cor de cabelo dentro
 
+```
 objeto: {
-
     Marrom: [
       { name: pessoa1, hairColor: "Marrom" },
       { name: pessoa2, hairColor: "Marrom" }
     ]
-
 }
+```
 
 #01 - 02
 
