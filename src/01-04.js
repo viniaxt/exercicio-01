@@ -1,10 +1,11 @@
 const pessoas = require("../db/db")
 
 
-const letraV = pessoas.sort((old, old1) => {
-    if (old.age.lessThen < old1.age.lessThen, old.age.moreThen < old1.age.moreThen) {
-        return 1
-    }
+const maiorIdade = pessoas.sort((old, old1) => {
+    return old1.age.lessThen > old.age.lessThen    
+}).reduce((accum, curr) => {
+    accum.age.lessThen > curr.age.lessThen
+    return accum
 })
 
-console.log(letraV)
+console.log(maiorIdade)
