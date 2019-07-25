@@ -1,7 +1,7 @@
 const db = [
   {
     name: "Vinicius",
-    hairColor: "loiro",
+    hairColor: "Loiro",
     age: {
       lessThen: 20,
       moreThen: 10
@@ -10,7 +10,7 @@ const db = [
 
   {
     name: "Marcos Vinicius",
-    hairColor: "preto",
+    hairColor: "Preto",
     age: {
       lessThen: 30,
       moreThen: 20
@@ -44,3 +44,5 @@ const db = [
     }
   }
 ]
+
+module.exports = db
