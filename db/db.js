@@ -1,7 +1,7 @@
 const db = [
   {
-    name: "Vinicius",
-    hairColor: "Loiro",
+    name: 'Vinicius',
+    hairColor: 'Loiro',
     age: {
       lessThen: 20,
       moreThen: 10
@@ -9,8 +9,8 @@ const db = [
   },
 
   {
-    name: "Marcos Vinicius",
-    hairColor: "Preto",
+    name: 'Marcos Vinicius',
+    hairColor: 'Preto',
     age: {
       lessThen: 30,
       moreThen: 20
@@ -18,8 +18,8 @@ const db = [
   },
 
   {
-    name: "Roberto",
-    hairColor: "Preto",
+    name: 'Roberto',
+    hairColor: 'Preto',
     age: {
       lessThen: 25,
       moreThen: 20
@@ -27,8 +27,8 @@ const db = [
   },
 
   {
-    name: "Marcel",
-    hairColor: "Preto",
+    name: 'Marcel',
+    hairColor: 'Preto',
     age: {
       lessThen: 40,
       moreThen: 30
@@ -36,8 +36,8 @@ const db = [
   },
 
   {
-    name: "Valcir",
-    hairColor: "Careca",
+    name: 'Valcir',
+    hairColor: 'Careca',
     age: {
       lessThen: 60,
       moreThen: 30
